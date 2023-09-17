@@ -1,6 +1,6 @@
 import random
-u_name='abhishek'
-pas='abhi.123'
+u_name='ansh'
+pas='ansh.2004'
 s=[]
 def login():
     id=input('Enter username: ')
